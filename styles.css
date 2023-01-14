@@ -1,0 +1,44 @@
+body{
+    background-image: url("station3.jpg");
+    background-size: cover;
+    font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+h1 {
+    color: rgb(0, 98, 82);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(56, 0, 0);
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    /* color: white; */
+    font-weight: bold;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.container{
+    /* background-color: white; */
+    max-width: 80%;
+    margin: auto;
+    /* border: 3px solid black;
+    border-radius: 10px; */
+}
+#increment-btn{
+    background: rgb(204, 255, 238);
+}
+#save-btn{
+    background: rgb(207, 252, 255);
+}
